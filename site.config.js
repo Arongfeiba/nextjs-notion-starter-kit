@@ -1,23 +1,23 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '0d1500e46ba344e7b36235b1039c6442',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '大师兄频道',
+  domain: 'https://www.notion.so/339/yofr-com-0d1500e46ba344e7b36235b1039c6442',
+  author: 'Arong',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'Arongfeiba',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
