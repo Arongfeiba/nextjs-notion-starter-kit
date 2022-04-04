@@ -9,14 +9,14 @@ export default {
   // basic site info (required)
   name: '大师兄频道',
   domain: 'https://www.notion.so/339/yofr-com-0d1500e46ba344e7b36235b1039c6442',
-  author: 'Arong',
+  author: '大师兄频道',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   twitter: '',
-  github: 'Arongfeiba',
+  github: '',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
