@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: '大师兄频道',
-  domain: 'https://www.notion.so/339/yofr-com-0d1500e46ba344e7b36235b1039c6442',
+  domain: 'https://339.notion.site/339/0d1500e46ba344e7b36235b1039c6442',
   author: '大师兄频道',
 
   // open graph metadata (optional)
